@@ -2,4 +2,4 @@
 title: IG Glossary
 tag: glossary
 ---
-* *IG* - In Game
+* *[IG](0mxxKCUOTZa8zAOcxkntig)* - In Game
